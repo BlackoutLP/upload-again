@@ -3,6 +3,8 @@ el link es
 https://github.com/BlackoutLP/upload-again.git
 se quito algunas cosas
 
+#### para colocarse en las webpage###
+
 Para crear esta rama especial en GitHub ejecutamos los siguientes comandos:
 
 git branch gh-pages
